@@ -4,3 +4,12 @@ body {
 .jumbotron {
 	text-align: center;
 }
+#soundLeft {
+	height:450px;
+}
+#soundRight {
+	height:450px;
+}
+.spaceGood {
+	margin:25px;
+}
